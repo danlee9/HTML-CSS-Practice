@@ -1,0 +1,26 @@
+http://css-tricks.com/how-css-selectors-work/
+
+http://css-tricks.com/specifics-on-css-specificity/
+
+http://css-tricks.com/a-line-in-the-sand/
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css
+
+http://hg.mozilla.org/mozilla-central/file/tip/layout/style/html.css
+
+http://www.iecss.com/
+
+http://necolas.github.io/normalize.css/
+
+Browsers use default stylesheets to determine how to display HTML elements. You can view default style rules for h1 and other elements here:
+
+http://www.w3.org/TR/CSS21/sample.html
+
+Box model: http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html
+

@@ -4,6 +4,20 @@
 
 .description {
 	max-width: 705px;
+	margin-left: 20px;
+	font-size: 24px;
+}
+
+.app {
+	display: -webkit-flex;
+	display: flex;
+}
+
+.title {
+	background-color: #33bebe;
+	max-width: 1105px;
+	color: white;
+	padding-left: 20px;
 }
 
 * {

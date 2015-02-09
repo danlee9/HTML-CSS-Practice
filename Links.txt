@@ -42,3 +42,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 
 https://developer.chrome.com/devtools/docs/device-mode
 
+http://www.google.com/fonts
+
+http://placehold.it/
+
+http://necolas.github.io/normalize.css/
+
+Code, Test, Refine
+1. Look for natural boxes.
+2. Look for repeated styles and semantic elements.
+3. Write your HTML.
+4. Apply styles (from biggest to smallest).
+5. Fix things.
+

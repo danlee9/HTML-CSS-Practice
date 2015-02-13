@@ -22,13 +22,17 @@ Browsers use default stylesheets to determine how to display HTML elements. You 
 
 http://www.w3.org/TR/CSS21/sample.html
 
-Box model: http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html
+Box model: 
+http://assignments.udacity-extras.appspot.com/courses/html-css/samples/box-model.html
 
-FLexbox: http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+FLexbox: 
+http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-HTML verification: http://validator.w3.org/#validate_by_input
+HTML verification: 
+http://validator.w3.org/#validate_by_input
 
-CSS verification: http://jigsaw.w3.org/css-validator/#validate_by_input
+CSS verification: 
+http://jigsaw.w3.org/css-validator/#validate_by_input
 
 http://en.wikipedia.org/wiki/CSS_frameworks
 
@@ -42,9 +46,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 
 https://developer.chrome.com/devtools/docs/device-mode
 
+Fonts: 
 http://www.google.com/fonts
 
+Placeholders: 
 http://placehold.it/
+http://flickholdr.iwerk.org/
 
 http://necolas.github.io/normalize.css/
 
@@ -55,3 +62,22 @@ Code, Test, Refine
 4. Apply styles (from biggest to smallest).
 5. Fix things.
 
+Frameworks:
+http://getbootstrap.com/
+http://foundation.zurb.com/
+http://www.yaml.de/
+http://960.gs/
+http://susy.oddbird.net/
+http://framelessgrid.com/
+
+http://www.w3.org/TR/CSS2/cascade.html#important-rules
+
+https://github.com/theoblivious/Front-end-Developer-Interview-Questions
+
+http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+
+http://darcyclarke.me/development/front-end-job-interview-questions/
+
+https://developer.chrome.com/devtools/docs/shortcuts#opening-devtools
+
+boilerplate
